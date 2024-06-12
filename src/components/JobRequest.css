@@ -1,0 +1,35 @@
+/* src/components/JobRequest.css */
+.job-request {
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .job-list {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .job-item {
+    background-color: #e9e9e9;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .posted {
+    font-size: 12px;
+    color: #888;
+  }
+  
+  .recent-requests {
+    margin-top: 20px;
+  }
+  
+  .recent-requests h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
