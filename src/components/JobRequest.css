@@ -11,6 +11,7 @@
   .job-list {
     display: flex;
     flex-direction: column;
+<<<<<<< HEAD
     top: 250px;
 
   }
@@ -21,6 +22,12 @@
     background-color: #e9e9e9;
     Width:667px;
 
+=======
+  }
+  
+  .job-item {
+    background-color: #e9e9e9;
+>>>>>>> 93d7257269631ad2878f43739ddd68bf3ef86f8e
     padding: 20px;
     margin-bottom: 10px;
   }
@@ -31,6 +38,7 @@
   }
   
   .recent-requests {
+<<<<<<< HEAD
     position: absolute;
     top: 190px; /* Adjust this value to position it vertically */
     right: 90px; /* Adjust this value to position it horizontally */
@@ -46,10 +54,16 @@
   }
   
   
+=======
+    margin-top: 20px;
+  }
+  
+>>>>>>> 93d7257269631ad2878f43739ddd68bf3ef86f8e
   .recent-requests h2 {
     font-size: 20px;
     margin-bottom: 10px;
   }
+<<<<<<< HEAD
 
   .container-fluid{
     width: 274px;
@@ -61,4 +75,6 @@ border-radius: 4px 0px 0px 0px;
 opacity: 0px;
 
   }
+=======
+>>>>>>> 93d7257269631ad2878f43739ddd68bf3ef86f8e
   

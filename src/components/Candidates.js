@@ -1,12 +1,16 @@
 // src/components/Candidates.js
 import React from 'react';
 import './Candidates.css';
+<<<<<<< HEAD
 import TuneIcon from '@mui/icons-material/Tune';
+=======
+>>>>>>> 93d7257269631ad2878f43739ddd68bf3ef86f8e
 
 function Candidates() {
   return (
     <div className="candidates">
       <h1>Candidate List</h1>
+<<<<<<< HEAD
       <nav className="navbar bg-body-tertiary">
   <div className="container-fluid">
     <form className="d-flex" role="search">
@@ -15,6 +19,8 @@ function Candidates() {
     </form>
   </div>
 </nav>
+=======
+>>>>>>> 93d7257269631ad2878f43739ddd68bf3ef86f8e
       <div className="candidate-list">
         <div className="candidate-item">
           <div>RPA0010</div>
@@ -26,6 +32,7 @@ function Candidates() {
           <div>L1 Interview</div>
           <div><a href="#">View Resume</a></div>
         </div>
+<<<<<<< HEAD
 
         <div className="candidate-item">
           <div>RPA0010</div>
@@ -50,6 +57,9 @@ function Candidates() {
         </div>
         
  
+=======
+        {/* Repeat candidate-item as needed */}
+>>>>>>> 93d7257269631ad2878f43739ddd68bf3ef86f8e
       </div>
     </div>
   );
