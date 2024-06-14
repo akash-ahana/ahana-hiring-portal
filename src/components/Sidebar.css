@@ -1,0 +1,45 @@
+/* src/components/Sidebar.css */
+.sidebar {
+    width: 200px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    width: 226px;
+    height: 1033px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  
+  .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px; /* Adjust as needed */
+    margin-bottom: 20px; /* Adjust as needed */
+  }
+  
+  .logo img {
+    max-height: 100%; /* Adjust as needed */
+    max-width: 100%; /* Adjust as needed */
+  }
+  
+  nav ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav ul li {
+    margin: 30px 0;
+    
+  }
+  
+  nav ul li a {
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 20px;
+text-align: center;
+    color: #333;
+  }
+  
+  
+  

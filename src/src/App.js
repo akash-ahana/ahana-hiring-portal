@@ -7,7 +7,7 @@ import Dashboard from './components/Dashboard';
 import JobRequest from './components/JobRequest';
 import Candidates from './components/Candidates';
 import './App.css';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
